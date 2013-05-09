@@ -7,11 +7,15 @@
 #  - P: loadings matrix
 #  - E: error matrix
 
+
+
 ### include
 library(pls)
 library(reshape) 
 library(ggplot2)
 library(grid) 
+
+
 
 ### parameters
 # -X:  matriz UNIMANshort$dat 200 filas 17 columnas  - 200 medidas 17 sensores
